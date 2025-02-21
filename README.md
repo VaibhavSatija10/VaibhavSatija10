@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on Research<br>🤝 I’m looking for help with Frontend Development<br>🌱 I’m currently learning Backend Development <br>💬 Ask me about Machine Learning<br>⚡ Fun fact - I love Tech 💻 and Football ⚽️
+🔭 I’m currently working on GenAI and MLOps<br>👯 I’m looking to collaborate on Research<br>🤝 I’m looking for help with Frontend Development and Blockchain<br>🌱 I’m currently learning NextJS <br>💬 Ask me about Machine Learning and GenAI<br>⚡ Fun fact - I love Tech 💻 and Football ⚽️
 
 
 ## 🌐 Socials:
